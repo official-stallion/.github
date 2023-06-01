@@ -15,7 +15,3 @@ It comes with _Load Test_ (Race) and _Blackbox Exporter_ (Vet) to analyse the **
 | Mock         | Add mock server for unit tests.            | ```v1.1.2``` |
 | Load Test    | Testing Stallion server under load.        | ```v1.2.2``` |
 | Monitorig    | Blackbox exporter for stallion server.     | ```v1.2.2``` |
-
-## Owner
-
-- Amirhossein Najafizade 
